@@ -1,4 +1,3 @@
-# Car Showroom Management System Project
 # **CAR SHOWROOM MANAGEMENT SYSTEM**
 
 This **Car Showroom Management System** is a software application built to manage various operations of a car showroom, including maintaining inventory, managing customer details, processing sales, and generating reports. It is designed to streamline showroom activities, making them more efficient and user-friendly.
@@ -25,15 +24,15 @@ This **Car Showroom Management System** is a software application built to manag
 ## **📂 Project Structure**  
 Car-Showroom-Management-System/  
 │  
-├── src/
+├── src/  
 │   ├── Main.java           # Entry point of the application
 │   ├── Car.java            # Class for car inventory
 │   ├── Customer.java       # Class for managing customer details
 │   ├── Sales.java          # Class for sales processing
-│   └── DatabaseManager.java# Class for database connectivity
-│
-├── resources/
-│   ├── car_showroom.sql    # Database schema
+│   └── DatabaseManager.java# Class for database connectivity  
+│  
+├── resources/  
+│   ├── car_showroom.sql    # Database schema  
 │   └── README.md           # Project documentation
 ---
 ## **📸 Sample Output**  
