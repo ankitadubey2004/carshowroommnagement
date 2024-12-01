@@ -21,20 +21,6 @@ This **Car Showroom Management System** is a software application built to manag
 - **Paradigm:** Object-Oriented Programming (OOP) for structured and modular development  
 
 ---
-## **📂 Project Structure**  
-Car-Showroom-Management-System/  
-│  
-├── src/  
-│   ├── Main.java            
-│   ├── Car.java              
-│   ├── Customer.java         
-│   ├── Sales.java            
-│   └── DatabaseManager.java  
-│    
-├── resources/    
-│   ├── car_showroom.sql    # Database schema    
-│   └── README.md           # Project documentation
----
 ## **📸 Sample Output**  
 Welcome to Car Showroom Management System
 1. Add a New Car
