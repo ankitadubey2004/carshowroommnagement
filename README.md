@@ -25,14 +25,14 @@ This **Car Showroom Management System** is a software application built to manag
 Car-Showroom-Management-System/  
 │  
 ├── src/  
-│   ├── Main.java           # Entry point of the application
-│   ├── Car.java            # Class for car inventory
-│   ├── Customer.java       # Class for managing customer details
-│   ├── Sales.java          # Class for sales processing
-│   └── DatabaseManager.java# Class for database connectivity  
-│  
-├── resources/  
-│   ├── car_showroom.sql    # Database schema  
+│   ├── Main.java            
+│   ├── Car.java              
+│   ├── Customer.java         
+│   ├── Sales.java            
+│   └── DatabaseManager.java  
+│    
+├── resources/    
+│   ├── car_showroom.sql    # Database schema    
 │   └── README.md           # Project documentation
 ---
 ## **📸 Sample Output**  
