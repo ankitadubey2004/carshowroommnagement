@@ -15,9 +15,8 @@ This **Car Showroom Management System** is a software application built to manag
 ---
 
 ## **🔧 Tech Stack**
-- **Frontend:** HTML, CSS, JavaScript, Bootstrap (if applicable)  
-- **Backend:** Java (or specify another language if applicable)  
-- **Database:** MySQL / MongoDB (specify what you're using)  
+- **Backend:** Java 
+- **Database:** MySQL / MongoDB  
 - **Paradigm:** Object-Oriented Programming (OOP) for structured and modular development  
 
 ---
